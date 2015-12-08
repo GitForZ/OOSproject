@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Android API 23 Platform"/>
+	<classpathentry kind="src" path="build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="build/generated/source/aidl/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="build/generated/source/rs/debug"/>
+	<classpathentry kind="src" path="build/generated/res/rs/debug"/>
+	<classpathentry kind="src" path="build/generated/res/resValues/debug"/>
+	<classpathentry kind="src" path="build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/aidl/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/res/rs/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/res/resValues/androidTest/debug"/>
+	<classpathentry kind="src" path="src/debug/res"/>
+	<classpathentry kind="src" path="src/debug/resources"/>
+	<classpathentry kind="src" path="src/debug/assets"/>
+	<classpathentry kind="src" path="src/debug/aidl"/>
+	<classpathentry kind="src" path="src/debug/java"/>
+	<classpathentry kind="src" path="src/debug/jni"/>
+	<classpathentry kind="src" path="src/debug/rs"/>
+	<classpathentry kind="src" path="src/main/res"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/assets"/>
+	<classpathentry kind="src" path="src/main/aidl"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/jni"/>
+	<classpathentry kind="src" path="src/main/rs"/>
+	<classpathentry kind="src" path="src/androidTest/res"/>
+	<classpathentry kind="src" path="src/androidTest/resources"/>
+	<classpathentry kind="src" path="src/androidTest/assets"/>
+	<classpathentry kind="src" path="src/androidTest/aidl"/>
+	<classpathentry kind="src" path="src/androidTest/java"/>
+	<classpathentry kind="src" path="src/androidTest/jni"/>
+	<classpathentry kind="src" path="src/androidTest/rs"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/design-23.1.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-ads-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-fitness-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-measurement-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-games-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-vision-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/appcompat-v7-23.1.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-base-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-appindexing-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-auth-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-drive-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-identity-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-appstate-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/support-annotations-23.1.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-location-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-safetynet-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/mediarouter-v7-22.2.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-plus-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-appinvite-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-cast-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-wearable-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-maps-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-nearby-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/recyclerview-v7-23.1.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/support-v4-23.1.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-panorama-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-gcm-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-analytics-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-wallet-8.3.0"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/play-services-basement-8.3.0"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/httpclient-4.5.1"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/httpcore-4.4.3"/>
+	<classpathentry kind="output" path="build/intermediates/classes/debug"/>
+</classpath>

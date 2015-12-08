@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/httpclient-4.5.1.httpclient-4.5.1"/>
+	<classpathentry kind="output" path="/build/classes/production/httpclient-4.5.1"/>
+</classpath>
